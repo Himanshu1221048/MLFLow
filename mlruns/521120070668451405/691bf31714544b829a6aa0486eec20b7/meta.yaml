@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521120070668451405/691bf31714544b829a6aa0486eec20b7/artifacts
+end_time: 1753674777474
+entry_point_name: ''
+experiment_id: '521120070668451405'
+lifecycle_stage: active
+run_id: 691bf31714544b829a6aa0486eec20b7
+run_name: skillful-frog-467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753674774459
+status: 3
+tags: []
+user_id: himan

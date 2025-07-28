@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/5eb88092ae484f998a10774ed00e5acf/artifacts
+end_time: 1753350038087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5eb88092ae484f998a10774ed00e5acf
+run_name: bustling-wren-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753350038062
+status: 3
+tags: []
+user_id: himan

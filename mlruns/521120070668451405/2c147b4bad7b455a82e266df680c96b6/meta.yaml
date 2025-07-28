@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521120070668451405/2c147b4bad7b455a82e266df680c96b6/artifacts
+end_time: 1753359357122
+entry_point_name: ''
+experiment_id: '521120070668451405'
+lifecycle_stage: active
+run_id: 2c147b4bad7b455a82e266df680c96b6
+run_name: fun-kite-611
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753359352810
+status: 3
+tags: []
+user_id: himan

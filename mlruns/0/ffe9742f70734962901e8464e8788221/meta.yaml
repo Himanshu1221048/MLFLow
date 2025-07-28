@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ffe9742f70734962901e8464e8788221/artifacts
+end_time: 1753349424151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffe9742f70734962901e8464e8788221
+run_name: abundant-ray-267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753349424118
+status: 3
+tags: []
+user_id: himan

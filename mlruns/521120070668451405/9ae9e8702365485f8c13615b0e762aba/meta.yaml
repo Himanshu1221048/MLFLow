@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521120070668451405/9ae9e8702365485f8c13615b0e762aba/artifacts
+end_time: 1753676276770
+entry_point_name: ''
+experiment_id: '521120070668451405'
+lifecycle_stage: active
+run_id: 9ae9e8702365485f8c13615b0e762aba
+run_name: resilient-deer-295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753676272365
+status: 3
+tags: []
+user_id: himan

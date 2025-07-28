@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/521120070668451405/ad5e2d8671624b5fbab351b1647fe515/artifacts
+end_time: 1753358059317
+entry_point_name: ''
+experiment_id: '521120070668451405'
+lifecycle_stage: active
+run_id: ad5e2d8671624b5fbab351b1647fe515
+run_name: spiffy-croc-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753358058973
+status: 3
+tags: []
+user_id: himan
